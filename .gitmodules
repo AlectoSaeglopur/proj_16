@@ -1,0 +1,3 @@
+[submodule "sub_asm"]
+	path = sub_asm
+	url = git@github.com:AlectoSaeglopur/sub_asm.git
