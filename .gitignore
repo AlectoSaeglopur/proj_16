@@ -1,3 +1,5 @@
 subW/
 mas.txt
-!**/was.c
+*.cpp
+!zorro.cpp
+
