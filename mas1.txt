@@ -9,3 +9,4 @@ tartaros
 athena
 zoo station
 cosmo
+conflict 33
